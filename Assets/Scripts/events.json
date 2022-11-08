@@ -1,0 +1,13 @@
+[{
+        "eventId": 1,
+        "eventTitle": "A chance",
+        "eventDescription": "You have lost your chance to excel at that given field. Will you still keep trying to get into that field?",
+        "eventChoices": ["choice_1", "choice_2"]
+    },
+    {
+        "eventId": 2,
+        "eventTitle": "F off",
+        "eventDescription": "You have lost your chance to excel at that given field. Will you still keep trying to get into that field?",
+        "eventChoices": ["choice_1", "choice_2"]
+    }
+]
